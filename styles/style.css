@@ -1,22 +1,18 @@
 :root {
-  --text-color: #3A3A3A;      /* 본문 가독성 다크 그레이 */
-  --sub-text: #6A6A6A;        /* 서브텍스트 */
-  --muted: #9A9A9A;           /* 날짜, 아주 연한 텍스트 */
+  --text-color: #3A3A3A;
+  --sub-text: #6A6A6A;
+  --muted: #9A9A9A;
 
-  /* 로고 색상: 그라디언트 */
   --logo-gradient-start: #D9BBEF;
   --logo-gradient-end: #B9B2EC;
 
   --accent: #B9B2EC;
-
-  /* 배경 */
   --bg: #FFFFFF;
-
-  --bg-thumbnail: #FFFFFF;    
+  --bg-thumbnail: #FFFFFF;
   --border: #E8BFD0;
 }
 
-/* GLOBAL FONT: DM Sans */
+/* GLOBAL FONT */
 body {
   font-family: "DM Sans", sans-serif;
   color: var(--text-color);
@@ -24,11 +20,10 @@ body {
   margin: 0;
   letter-spacing: -0.01em;
   -webkit-font-smoothing: antialiased;
-
-  font-size: 17px;  /* 🔥 기본 글자 자체도 키움 */
+  font-size: 17px;
 }
 
-/* Navigation -------------------------------- */
+/* NAVIGATION -------------------------------- */
 .navbar {
   width: 100%;
   background-color: var(--bg);
@@ -40,16 +35,17 @@ body {
 
 .nav-container {
   max-width: 1200px;
-  padding: 1.25rem 1.35rem; /* 🔥 약간 더 여백 넓힘 */
+  padding: 1.25rem 1.35rem;
   margin: 0 auto;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
-/* LOGO FONT: Pacifico + gradient */
+/* LOGO */
 .logo {
   font-family: "Pacifico", cursive;
-  font-size: 3rem;   /* 🔥 로고 크게 */
+  font-size: 3rem;
   text-decoration: none;
   background: linear-gradient(135deg, var(--logo-gradient-start), var(--logo-gradient-end));
   -webkit-background-clip: text;
@@ -58,7 +54,27 @@ body {
   letter-spacing: 0.6px;
 }
 
-/* Main Section -------------------------------- */
+/* RIGHT MENU */
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+.nav-link {
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: opacity 0.18s ease;
+}
+
+.nav-link:hover {
+  opacity: 0.6;
+}
+
+/* MAIN CONTENT -------------------------------- */
 .container {
   max-width: 1200px;
   padding: 1.25rem 1.35rem;
@@ -68,15 +84,13 @@ body {
   gap: 2.3rem;
 }
 
-/* SECTION TITLE */
 .section-title {
   font-weight: 700;
-  font-size: 28px;   /* 🔥 더 큼 */
+  font-size: 28px;
   margin: 0;
-  color: var(--text-color);
 }
 
-/* Contents View -------------------------------- */
+/* GRID */
 .content-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -113,20 +127,18 @@ body {
 }
 
 .item-title {
-  font-size: 1.22rem;      /* 🔥 카드 제목 크게 */
+  font-size: 1.22rem;
   font-weight: 700;
-  line-height: 1.45;
   margin: 0;
-  color: var(--text-color);
 }
 
 .item-subtitle {
-  font-size: 1.05rem;      /* 🔥 카드 부제 더 큼 */
-  color: var(--sub-text);
+  font-size: 1.05rem;
   margin: 0;
+  color: var(--sub-text);
 }
 
-/* POSTS PAGE -------------------------------- */
+/* POST PAGE -------------------------------- */
 .post-container {
   max-width: 740px;
   margin: 0 auto;
@@ -139,48 +151,44 @@ body {
 }
 
 .post-container h1 {
-  font-size: 2.5rem;    /* 🔥 게시글 제목 크게 */
+  font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 1.2rem;
-  color: var(--text-color);
 }
 
 .post-container h2 {
-  font-size: 1.45rem;   /* 🔥 h2 확대 */
-  color: var(--sub-text);
+  font-size: 1.45rem;
   margin-bottom: 0.7rem;
+  color: var(--sub-text);
 }
 
 .post-container time {
-  font-size: 1rem;      /* 🔥 날짜도 키움 */
+  font-size: 1rem;
   color: var(--muted);
   margin-bottom: 3rem;
   display: block;
 }
 
 .post-container h3 {
-  font-size: 1.3rem;   /* 🔥 h3 확대 */
+  font-size: 1.3rem;
   font-weight: 600;
   margin-bottom: 1.7rem;
-  color: var(--text-color);
 }
 
 .post-container p {
-  font-size: 1.15rem;  /* 🔥 본문 더 큼 */
+  font-size: 1.15rem;
   line-height: 1.85;
-  color: var(--text-color);
   margin-bottom: 1.4rem;
 }
 
 .post-container img {
-  display: block;
   width: 100%;
   max-width: 520px;
   margin: 2.2rem auto;
   border-radius: 16px;
 }
 
-/* Fade Animation -------------------------------- */
+/* Fade Animation */
 .fade {
   opacity: 0;
   transform: translateY(40px);
@@ -189,4 +197,24 @@ body {
 .fade.visible {
   opacity: 1;
   transform: translateY(0);
+}
+/* ABOUT PAGE */
+.about-container {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 1.5rem;
+}
+
+.about-container h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+}
+
+.about-container p {
+  font-size: 1.12rem;
+  line-height: 1.85;
+  margin-bottom: 1.2rem;
+  color: var(--text-color);
 }
