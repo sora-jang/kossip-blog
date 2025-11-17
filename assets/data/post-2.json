@@ -2,101 +2,70 @@
   "id": "2",
   "slug": "2",
   "title": "Buldak comes with its own origin story. What made them create something this insanely spicy? 🔥",
-  "subtitle": "#k-food #Buldak",
-  "date": "2025년 11월 6일",
-  "dateISO": "2025-11-06",
+  "subtitle": "#k-health #redginseng #cardi-b",
+  "date": "Nov 17 2025",
+  "dateISO": "2025-11-17",
   "thumbnail": {
     "src": "assets/images/post-2/thumbnail.png",
-    "alt": "노트북 앞의 게임 기획자 일러스트"
+    "alt": "Why Cardi B was obsessed with Korean Red Ginseng"
   },
   "mainImage": {
-    "src": "assets/images/post-1/main.png",
-    "alt": "노트북 앞의 게임 기획자 일러스트"
+    "src": "assets/images/post-2/thumbnail.png",
+    "alt": "Why Cardi B was obsessed with Korean Red Ginseng"
   },
   "introduction": [
-    "안녕하세요! 저는 게임 회사에서 캐릭터 시스템 분야를 담당하고 있는 게임 기획자입니다.",
-    "현재는 신규 캐주얼 게임 프로젝트를 맡아 진행하고 있습니다."
+    "Hey fellows!",
+    "Today, I'll be sharing about Korean Red Ginseng, which Cardi B made famous on TikTok."
   ],
   "sections": [
     {
-      "heading": "게임 유저이던 내가 게임을 기획하기까지...",
       "paragraphs": [
-        "아버지가 컴퓨터 프로그래밍을 가르치셔서 어릴 때부터 자연스럽게 컴퓨터와 게임을 접할 수 있었습니다. 쥬니어네이버의 동물농장부터 메이플스토리, 그랜드체이스 등 유행하던 게임들과 함께 성장해 왔습니다.",
-        "하지만 진로를 고민하던 고등학교 시절에는 게임 업계에 대한 정보가 부족했습니다. 결국 게임과는 전혀 관련 없는 전공으로 대학에 진학했고, 게임은 취미로만 즐겼습니다.",
-        "제가 본격적으로 게임 업계에 관심을 갖게 된 결정적인 계기는 코로나19였습니다. 당시에는 '게임 대열풍의 시대'라고 불릴 만큼 모두가 게임을 즐기는 모습을 보면서, 저 역시 본격적으로 게임 업계에 관심을 가지기 시작했습니다."
-      ],
-      "image": {
-        "src": "assets/images/post-1/section1.png",
-        "alt": "창문을 뛰쳐나오는 일러스트"
-      }
-    },
-    {
-      "heading": "지금이 아니면 안 될 것 같다는 생각에 도전",
-      "paragraphs": [
-        "당시 대학원에 다니고 있었는데, 예전과는 달리 원한다면 게임을 만드는 직업에 대한 정보를 쉽게 찾아볼 수 있었습니다. 계속 찾아보던 중 ‘지금이 아니면 안 된다’는 생각이 들어 마지막 학기가 시작됐지만, 중간에 그만두고 게임 회사 인턴 취업을 준비했습니다.",
-        "노력과 운이 여러모로 잘 맞아 지금 회사에서 좋은 기회를 얻어 인턴십을 시작했고, 지금까지 만 2년 차 게임 기획자로 일하고 있습니다."
+        "In the viral video, Cardi B shared her experience. She explained that she was feeling exhausted and coffee just wasn't cutting it anymore.",
+        "After trying red ginseng, though, she felt wired and noticed it seemed to boost her immune system too. She recommends taking it after breakfast, as it can be too strong on an empty stomach."
       ]
     },
     {
-      "heading": "게임 회사 포폴 준비 팁, 현직자 강연 영상 찾아보기",
+      "heading": "What is Red Ginseng?",
       "paragraphs": [
-        "요즘은 게임 회사 취업 정보가 많이 공개되어 있습니다. 하지만 자기소개서는 어느 정도 작성할 수 있어도, 포트폴리오에 관해서는 양질의 정보를 찾기 어려웠습니다.",
-        "그래서 Nexon Developers Conference 같은 유튜브 채널에서 현직자들의 강연 영상을 찾아보는 것부터 시작했습니다. 제가 영상을 보면서 가장 주목했던 점은 현직자들이 게임을 만들 때 가장 중요하게 생각하는 가치가 무엇인지에 대한 부분이었습니다.",
-        "여러 강연을 들으며 어느 정도 감을 잡을 수 있었고, 학원에서 배운 멋진 포트폴리오가 아니더라도 저만의 생각과 가치관을 담은 포트폴리오를 완성할 수 있었습니다."
+        "Nowadays, Korean red ginseng is known as a healthy, caffeine-free energy booster. It revitalizes tired bodies similarly to coffee or energy drinks, but it's way healthier. That's what sets it apart.",
+        "But what exactly is red ginseng? It's created by steaming and drying 6-year-old fresh ginseng roots until they turn a deep red color. During this process, chemical reactions such as the Maillard reaction occur, which transform the ginseng's components and significantly amplify its health benefits."
       ]
     },
     {
-      "heading": "면접 답변은 줄줄 외우기 보다는 키워드 위주로 기억",
+      "heading": "A Cultural Staple in Korea",
       "paragraphs": [
-        "면접의 경우, 평소 글보다는 말로 설명하는 것을 선호하고 임기응변이 뛰어난 편이라 따로 학원을 다니거나 연습하지는 않았습니다. 대신 예상 질문에 대한 키워드를 뽑아 암기하는 방식으로 준비했습니다.",
-        "예를 들어, 자기소개를 해 보라는 질문에 대해 답변 전체를 외우는 대신, 직무에 관심을 갖게 된 계기, 취업 준비 시 직무에 관해 가장 많이 한 생각, 그리고 내가 되고 싶은 기획자와 같이 핵심 키워드들을 암기했습니다."
-      ],
-      "image": {
-        "src": "assets/images/post-1/section2.png",
-        "alt": "회사에서 게임하는 모습 일러스트"
-      }
-    },
-    {
-      "heading": "게임 회사의 장점은 역시 합법적으로 게임할 수 있다는 점...?",
-      "paragraphs": [
-        "제가 느끼는 제 일의 가장 큰 장점은 역시 덕업일치가 가능하다는 점입니다.",
-        "게임을 정말 좋아하는데, 게임 회사에 다니니까 좋은 점이 확실히 많더라고요. 우선 좋아하는 게임에 대한 덕후 talk를 할 수 있는 사람들이 주변에 많습니다. 신작이 나오면 의견을 나누고 공략을 물어볼 수도 있고, 같이 게임 할 친구가 부족할 걱정이 없더라고요...",
-        "그리고 기획을 위한 조사를 하거나 제가 맡은 프로젝트의 게임을 테스트할 때처럼, 업무의 일환으로 회사에서 게임을 할 수 있다! 라는 것이 정말 큰 장점입니다."
+        "In Korea, red ginseng is so common that people gift it to their parents on Parents' Day or during holidays. It's that deeply rooted in the Korean culture.",
+        "Students in Korea preparing for exams also take it regularly. This widespread practice is supported by its scientifically recognized benefits."
       ]
     },
     {
-      "heading": "고사양 게임 4개가 한 번에 열리는 컴퓨터 성능",
+      "heading": "The Benefits of Taking Red Ginseng",
       "paragraphs": [
-        "게임 회사이다 보니 업무용 컴퓨터의 사양이 매우 좋은 편입니다. 사양이 얼마나 좋은지 궁금해서 MMORPG 1개, 오픈월드 RPG 1개, 모바일 게임 2개를 동시에 켜보기도 했는데, 무리없이 켜지는 모습을 볼 수 있었습니다.",
-        "그리고 회사 출퇴근 시간이 비교적 자유로워서 출퇴근 지옥철을 타본 적이 없습니다. 출퇴근 시 앉아서 가는 비율이 80%가 넘고 대부분 한산합니다.",
-        "또한, 층마다 탕비실에 과자, 음료수, 견과류, 죽 등 다양한 먹을거리가 구비되어 있습니다. 중식과 석식도 메뉴를 골라 먹을 수 있어서 평일에는 식비가 들지 않습니다. 맛도 꽤 괜찮아서, 저는 취업 준비할 때보다 오히려 취업 후에 살이 3kg나 찌기도 했습니다...ㅎㅎㅎ"
+        "Red ginseng consistently shows its power in enhancing stress resistance and alleviating fatigue through numerous studies. Notably, the 2022 Spring Ginseng Conference confirmed significant improvements for individuals battling chronic fatigue or low blood pressure after regular intake.",
+        "Indeed, these findings resonate with and substantiate personal anecdotes, including Cardi B's, concerning improved vitality and immune health.",
+        "Because of all these benefits, my mom (the editor speaking here) always made sure I took red ginseng. I basically grew up as a [red ginseng kid.]"
       ]
     },
     {
-      "heading": "취미는 역시 게임",
+      "heading": "Most Popular Korean Brand of Red Ginseng?",
       "paragraphs": [
-        "재미있고 좋아하는 것은 참 많지만, 꾸준히 하는 취미는 역시 게임입니다. 신작 모바일 수집형 RPG는 반드시 해보는 편이고, 닌텐도 스위치 IP들도 좋아해서 대부분 예약 구매하며 플레이합니다.",
-        "게임 말고는 종종 코인 노래방을 가기도 하고, 추리/스릴러 영화나 책도 읽어요.",
-        "IT 회사원의 숙명인 거북목과 라운드 숄더에서 벗어나기 위해 한때 필라테스를 하기도 했지만, 지금은 잠정적으로 중단한 상태입니다."
+        "Both in Korea and internationally, a company called KGC (Korea Ginseng Corporation) and its brand JUNG KWAN JANG are the most famous. People trust and buy from them because they're the most well-known and reliable company in the industry.",
+        "Their product called [Everytime] red ginseng sticks seems particularly popular. The portability is great, and the taste is clean and refreshing. In fact, it was the very product that Cardi B consumed, adding to its widespread appeal."
       ]
     },
     {
-      "heading": "하고 싶은 일을 하기 위해 여유와 재력 갖추기",
+      "heading": "Check Before Consumption",
       "paragraphs": [
-        "제 삶의 동력은 하고 싶은 일이 있을 때 고민하지 않고 할 수 있을 만한 마음의 여유와 재력을 갖추려고 노력하는 것입니다.",
-        "좋아하는 게 많은데 그걸 다 하고 살기 위해서는 돈도, 시간도, 마음의 여유도 있어야 한다고 생각해요. 게임도 해야 하고, 지나가다가 귀여운 물건 보이면 사야 하고, 맛있는 디저트도 먹어야 하고, 좋아하는 사람들이랑 시간 보낼 때 한 번씩 시원하게 쏘기도 해야 하니까!",
-        "그러기 위해 저는 돈도 열심히 벌고, 마음도 열심히 가꾸면서 살고자 합니다."
-      ],
-      "image": {
-        "src": "assets/images/post-1/section3.png",
-        "alt": "노트북 앞에 앉은 사람 머리 위에 하트, 시계, 돈주머니가 있는 일러스트"
-      }
+        "While red ginseng offers numerous benefits, it's crucial to be aware of potential side effects from excessive intake, which may include insomnia, heart palpitations, headaches, heartburn, and increased blood pressure.",
+        "Therefore, pregnant women, individuals with high blood pressure, and those taking anticoagulants (like warfarin) should exercise caution and consult a healthcare professional before consumption.",
+        "Also, its distinct taste might be unfamiliar or even bitter initially, but as the old saying goes, good medicine tastes bitter."
+      ]
     },
     {
-      "heading": "웃으며 살자!",
+      "heading": "Where to Find it?",
       "paragraphs": [
-        "좌우명을 생각해 본 적은 없지만, 굳이 꼽자면 “웃으면서 살자!”입니다. 단순히 긍정적으로 살자 ~ 라는 의미보다는, 긍정적인 마음을 가질 수 있도록 마음도, 신체도 건강하게 살고 돈도 열심히 벌고... 그런 느낌?",
-        "열심히 살되 워라밸을 갖추자? 같은 느낌이에요."
+        "Travelers visiting Korea often stock up on red ginseng directly at the airport, making it a convenient last-minute purchase.",
+        "For those in the US, it's also available on platforms like Amazon and at Costco, making it easily accessible for your wellness journey."
       ]
     }
   ]
